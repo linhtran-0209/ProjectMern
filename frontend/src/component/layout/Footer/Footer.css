@@ -1,0 +1,95 @@
+
+
+footer{
+    margin-top: 10vmax;
+    padding: 2vmax;
+    background-color:#174786;
+    color:white;
+    display: flex;
+    align-items: center;
+  }
+.midFooterLeft>h2{
+  color: #fdcc0d;
+}
+.leftFooter{
+  width: 20%;
+}
+.midFooterLeft{
+  width: 22%;
+  display: flex;
+  flex-direction: column;
+  align-items:center;
+}
+.midFooterLeft>h2{
+  font-families: "Roboto", "Droid Sans", "Chilanka",
+}
+.midFooterLeft>h2{
+  padding-top:0vmax ;
+  padding-bottom: 1.2vmax;
+}
+.sub-category{
+  padding-bottom: 0.5rem;
+}
+.sub-category >a{
+  color: white;
+}
+.sub-category > a {
+  text-decoration: none;
+}
+.sub-category>a:hover{
+  color: yellow;
+
+
+}
+.midFooterRight{
+  width: 20%;
+  display: inline;
+  text-align: center;
+}
+.midFooterRight >h2{
+  font-families: "Roboto", "Droid Sans", "Chilanka",
+}
+.midFooterRight >h2{
+  padding-bottom: 1rem;
+  color: #fdcc0d;
+  
+}
+.sub-linkcontent{
+  padding-top: 1.5rem;
+  padding-bottom: 0.7rem;
+}
+.sub-linkcontent >a{
+  font-size: 3rem;
+  padding-top: 1rem;
+  padding-right: 0.8rem;
+  
+}
+.fa{
+  color: white;
+}
+.rightFooter{
+  width: 38%;
+  display: block;
+  align-items: center;
+}
+.rightFooter>h2{
+  margin-bottom: 0.9rem;
+  margin-top: 1.5rem;
+  
+}
+.rightFooter>h2{
+  font-families: "Roboto", "Droid Sans", "Chilanka"
+}
+.rightFooter>h2{
+  text-align: center;
+  color: #fdcc0d;
+}
+.sub-content-ft-1{
+  padding-top: 0.2rem;
+}
+.sub{
+  padding-left: 5rem;
+  padding-top: 0.5rem;
+}
+
+
